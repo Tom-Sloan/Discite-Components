@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "shape",
+      "name": "Shape Demo",
+      "description": "This is all about learning the shapes",
+      "file": "./demo/shape-demo",
+      "tags": ["shape", "edges", "vertics", "angles"],
+      "parents": ["react-feather"]
+    },
+    {
+      "id": "color",
+      "name": "Color Demo",
+      "description": "This is all about learning the colors",
+      "file": "./demo/color-demo",
+      "tags": ["color", "hex", "rgb", "primary"],
+      "parents": ["react-feather"]
+    },
+    {
+      "id": "size",
+      "name": "Size Demo",
+      "description": "This is all about learning the size",
+      "file": "./demo/size-demo",
+      "tags": ["size", "height", "width", "color", "shape"],
+      "parents": ["react-feather"]
+    },
+    {
+      "id": "bitdevtest",
+      "name": "Bit dev Demo",
+      "description": "This is all about learning the lazy loading",
+      "file": "components.ui.component1",
+      "tags": ["size", "height", "width", "color", "shape"],
+      "parents": ["components.ui.component1"]
+    }
+  ]
+}
