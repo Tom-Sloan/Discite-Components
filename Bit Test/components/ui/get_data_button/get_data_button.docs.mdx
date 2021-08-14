@@ -1,0 +1,33 @@
+---
+description: "A GetDataButton component."
+labels: ["label1", "label2", "label3"]
+---
+
+import { GetDataButton } from "./get_data_button";
+
+## React Component for rendering text
+
+A basic div that renders some text
+
+### Component usage
+
+```js
+<GetDataButton
+  text="hello from GetDataButton"
+  hasLoadingAnimation={false}
+  isLoading={false}
+/>
+```
+
+### Using props to customize the text
+
+Modify the text to see it change live:
+
+```js live
+<GetDataButton
+  text="hello from GetDataButton"
+  hasLoadingAnimation={false}
+  isLoading={false}
+  onButtonClick={(e) => console.log("view in console")}
+/>
+```

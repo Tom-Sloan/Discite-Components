@@ -1,0 +1,59 @@
+{
+  "service": [
+    {
+      "id": 1,
+      "name": "Google",
+      "colour": "#0F9D58",
+      "script": "Takeout/archive_browser.html",
+      "icon": { "library": "brands", "name": "faGoogle" },
+      "logoImage": "./Logos/google.png",
+      "instructionsLink": "https://support.google.com/accounts/answer/3024190?hl=en",
+      "hasAutomation": false,
+      "sub_display_elements": [
+        {
+          "id": 1,
+          "name": "History",
+          "script": "",
+          "icon": { "name": "faHistory", "library": "solid" },
+          "service_id": 1
+        },
+        {
+          "id": 2,
+          "name": "Hangouts",
+          "script": "",
+          "icon": { "name": "faComments", "library": "solid" },
+          "service_id": 1
+        },
+        {
+          "id": 3,
+          "name": "Location",
+          "script": "",
+          "icon": { "name": "faMapMarkedAlt", "library": "solid" },
+          "service_id": 1
+        }
+      ]
+    },
+
+    {
+      "id": 2,
+      "name": "Twitter",
+      "colour": "#1DA1F2",
+      "script": "Your archive.html",
+      "icon": { "library": "brands", "name": "faTwitter" },
+      "logoImage": "./Logos/twitter.jpg",
+      "instructionsLink": "https://help.twitter.com/en/managing-your-account/how-to-download-your-twitter-archive#:~:text=Go%20to%20your%20Account%20settings,Your%20account%20from%20the%20menu.&text=Click%20on%20Download%20an%20archive%20of%20your%20data.&text=Enter%20your%20password%20under%20Download,your%20data%2C%20then%20click%20Confirm.",
+      "hasAutomation": true
+    },
+
+    {
+      "id": 3,
+      "name": "Facebook",
+      "colour": "#4267B2",
+      "script": "index.html",
+      "icon": { "library": "brands", "name": "faFacebook" },
+      "logoImage": "./Logos/facebook.png",
+      "instructionsLink": "https://www.facebook.com/help/212802592074644",
+      "hasAutomation": true
+    }
+  ]
+}

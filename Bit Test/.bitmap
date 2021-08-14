@@ -33,5 +33,17 @@
         "mainFile": "index.js",
         "rootDir": "my-scope/ui/component2"
     },
+    "ui/drop_down_menu": {
+        "scope": "",
+        "version": "",
+        "mainFile": "index.js",
+        "rootDir": "components/ui/drop_down_menu"
+    },
+    "ui/get_data_button": {
+        "scope": "discite-components.components",
+        "version": "0.0.3",
+        "mainFile": "index.js",
+        "rootDir": "components/ui/get_data_button"
+    },
     "$schema-version": "14.9.0"
 }

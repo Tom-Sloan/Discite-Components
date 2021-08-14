@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/static/js/main.e0aa0c7c.js",
+    "main.js": "/static/js/main.bcd258f4.js",
     "runtime-main.js": "/static/js/runtime-main.49a394e4.js",
-    "static/css/366.885155d4.css": "/static/css/366.885155d4.css",
-    "static/js/366.cfd8874b.js": "/static/js/366.cfd8874b.js",
-    "workbox-fd51333d.js": "/workbox-fd51333d.js",
+    "static/css/808.2ee06f78.css": "/static/css/808.2ee06f78.css",
+    "static/js/808.3a5a020c.js": "/static/js/808.3a5a020c.js",
+    "workbox-e280451f.js": "/workbox-e280451f.js",
     "service-worker.js": "/service-worker.js",
     "index.html": "/index.html"
   },
   "entrypoints": [
     "static/js/runtime-main.49a394e4.js",
-    "static/css/366.885155d4.css",
-    "static/js/366.cfd8874b.js",
-    "static/js/main.e0aa0c7c.js"
+    "static/css/808.2ee06f78.css",
+    "static/js/808.3a5a020c.js",
+    "static/js/main.bcd258f4.js"
   ]
 }
